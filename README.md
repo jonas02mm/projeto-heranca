@@ -1,8 +1,22 @@
-# projeto-heranca
+# projeto-heranca # Projeto Herança - Tema Animal
+# FIZ SOZINHO.
+# Aluno: Jonas Magalhães Miranda
+# RA: 42322378
 
-Nome : Jonas Magalhães Miranda 
-RA :  42322378 
+---
 
-ste projeto foi desenvolvido como exercício de Programação Orientada a Objetos em Java, com foco em herança, sobrescrita de métodos (@Override) e polimorfismo. A ideia central foi modelar uma hierarquia simples, composta por uma superclasse genérica e duas subclasses especializadas, cada uma com atributos próprios e comportamentos específicos.
+## Tema
+Hierarquia de animais, com superclasse "Animal" e subclasses "Cachorro" e "Gato".
 
-No código, a classe Superclasse define características e métodos comuns, enquanto as subclasses (SubclasseA e SubclasseB) estendem essa estrutura, adicionando novas propriedades e sobrescrevendo métodos para demonstrar polimorfismo em tempo de execução. No arquivo Main.java, os objetos das subclasses são instanciados e manipulados a partir de referências da superclasse, ilustrando a flexibilidade do modelo orientado a objetos.
+---
+
+## Descrição
+O projeto demonstra conceitos de herança, sobrescrita de métodos e polimorfismo em Java.
+- "Animal" é a superclasse com atributos comuns.
+- "Cachorro" e "Gato" são subclasses com atributos próprios e método # "emitirSom()" sobrescrito.
+- No "Main", os objetos são armazenados em uma lista de "Animal" e exibem comportamento polimórfico.
+
+---
+
+Este projeto foi desenvolvido como exercício de Programação Orientada a Objetos em Java, com foco em herança, sobreescrita de métodos (@Override) e polimorfismo.
+No código, a superclasse `Superclasse` define características e métodos comuns, enquanto as subclasses `(SubclasseA e SubclasseB)` estendem essa estrutura.
